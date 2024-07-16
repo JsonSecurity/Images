@@ -1,4 +1,4 @@
-# Images - Json Security
+# Json Security
 Images of the scripts made by Json Security.
 
 ### [Lizardnum](https://github.com/JsonSecurity/Lizardnum)
