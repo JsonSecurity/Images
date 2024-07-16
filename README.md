@@ -1,14 +1,14 @@
 # Images
 Images of the operation of the scripts in my account.
 
-# Lizardnum
-<img src="https://github.com/JsonSecurity/Images/blob/main/scripts/Lizardnum.png" />
+# (Lizardnum)[https://github.com/JsonSecurity/Lizardnum]
+<img src="https://github.com/JsonSecurity/Images/blob/main/scripts/Lizardnum.png" width="400" />
 
-# Extrakeys [ver](https://github.com/JsonSecurity/tunNgrok)
-<img src="https://github.com/JsonSecurity/Images/blob/main/scripts/extrakeys.jpg" />
+# (Extrakeys)[https://github.com/JsonSecurity/Extrakeys]
+<img src="https://github.com/JsonSecurity/Images/blob/main/scripts/extrakeys.jpg" width="200" />
 
-# TunNgrok (ver)[https://github.com/JsonSecurity/tunNgrok]
-<img src="https://github.com/JsonSecurity/Images/blob/main/scripts/tcp.jpg" />
+# (TunNgrok)[https://github.com/JsonSecurity/tunNgrok] 
+<img src="https://github.com/JsonSecurity/Images/blob/main/scripts/tcp.jpg" width="100" />
 
-# Locateme
-<img src="https://github.com/JsonSecurity/Images/blob/main/scripts/locateme.jpg" />
+# (Locateme)[https://github.com/JsonSecurity/Locateme]
+<img src="https://github.com/JsonSecurity/Images/blob/main/scripts/locateme.jpg" width="300" />
