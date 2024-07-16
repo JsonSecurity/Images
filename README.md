@@ -1,5 +1,5 @@
-# Images
-Images of the operation of the scripts in my account.
+# Images - Json Security
+Images of the scripts made by Json Security.
 
 ### [Lizardnum](https://github.com/JsonSecurity/Lizardnum)
 <img src="https://github.com/JsonSecurity/Images/blob/main/scripts/Lizardnum.png" width="400" />
