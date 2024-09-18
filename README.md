@@ -10,7 +10,7 @@ Images of the scripts made by Json Security.
 #### [TunNgrok](https://github.com/JsonSecurity/tunNgrok)
 <img src="https://github.com/JsonSecurity/Images/blob/main/scripts/tcp.jpg" width="400" />
 
-#### [TunNgrok](https://github.com/JsonSecurity/sdbackup)
+#### [sdbackup](https://github.com/JsonSecurity/sdbackup)
 <img src="https://github.com/JsonSecurity/Images/blob/main/scripts/sdbackup.jpg" width="400" />
 
 ### [Extrakeys](https://github.com/JsonSecurity/Extrakeys)
