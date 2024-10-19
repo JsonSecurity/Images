@@ -40,7 +40,7 @@
 
 ### 📀 sdbackup
 [![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/sdbackup)
-![shell](https://img.shields.io/badge/shell-lightgrey)
+![shell](https://img.shields.io/badge/shell-green)
 
 <img src="https://github.com/JsonSecurity/Images/blob/main/scripts/sd.jpg" width="600" />
 
@@ -48,7 +48,7 @@
 
 ### 💻 Extrakeys
 [![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/Extrakeys)
-![shell](https://img.shields.io/badge/shell-lightgrey)
+![shell](https://img.shields.io/badge/shell-green)
 
 <img src="https://github.com/JsonSecurity/Images/blob/main/scripts/extrakeys.jpg" width="400" />
 
@@ -56,7 +56,7 @@
 
 ### 📍 Locateme
 [![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/Locateme)
-![shell](https://img.shields.io/badge/shell-lightgrey)
+![shell](https://img.shields.io/badge/shell-green)
 ![php](https://img.shields.io/badge/php-blueviolet)
 ![html](https://img.shields.io/badge/html-orange)
 ![javascript](https://img.shields.io/badge/javascript-yellow)
