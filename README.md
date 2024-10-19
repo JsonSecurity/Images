@@ -42,4 +42,4 @@
 
 ### 📍 Locateme
 <img src="https://github.com/JsonSecurity/Images/blob/main/scripts/locateme.jpg" width="400" />
-[view_script](https://github.com/JsonSecurity/Locateme)
+[viewscript](https://github.com/JsonSecurity/Locateme)
