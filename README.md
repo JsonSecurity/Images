@@ -5,6 +5,10 @@
 ## Images of the scripts made by `Json Security`
 
 ### 🦔 redbot
+[![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/redbot)
+
+
+### 🦔 redbot
 [view_script](https://github.com/JsonSecurity/redbot)
 <img src="https://github.com/JsonSecurity/Images/blob/main/scripts/redbot.png" width="700" />
 
