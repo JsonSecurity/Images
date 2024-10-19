@@ -4,23 +4,23 @@
 
 ## Images of the scripts made by `Json Security`
 
-### [redbot](https://github.com/JsonSecurity/redbot)
+### `redbot` [show](https://github.com/JsonSecurity/redbot)
 <img src="https://github.com/JsonSecurity/Images/blob/main/scripts/redbot.png" width="700" />
 
-### [Active-Win_U](https://github.com/JsonSecurity/Active-Win_U)
+### `Active-Win_U` [show](https://github.com/JsonSecurity/Active-Win_U)
 <img src="https://github.com/JsonSecurity/Images/blob/main/scripts/activewin.png" width="1000" />
 
-### [Lizardnum](https://github.com/JsonSecurity/Lizardnum)
+### `Lizardnum` [show](https://github.com/JsonSecurity/Lizardnum)
 <img src="https://github.com/JsonSecurity/Images/blob/main/scripts/Lizardnum.png" width="700" />
 
-#### [TunNgrok](https://github.com/JsonSecurity/tunNgrok)
+#### `TunNgrok` [show](https://github.com/JsonSecurity/tunNgrok)
 <img src="https://github.com/JsonSecurity/Images/blob/main/scripts/tcp.jpg" width="400" />
 
-#### [sdbackup](https://github.com/JsonSecurity/sdbackup)
+#### `sdbackup` [show](https://github.com/JsonSecurity/sdbackup)
 <img src="https://github.com/JsonSecurity/Images/blob/main/scripts/sd.jpg" width="600" />
 
-### [Extrakeys](https://github.com/JsonSecurity/Extrakeys)
+### `Extrakeys` [show](https://github.com/JsonSecurity/Extrakeys)
 <img src="https://github.com/JsonSecurity/Images/blob/main/scripts/extrakeys.jpg" width="400" />
 
-### [Locateme](https://github.com/JsonSecurity/Locateme)
+### `Locateme` [show](https://github.com/JsonSecurity/Locateme)
 <img src="https://github.com/JsonSecurity/Images/blob/main/scripts/locateme.jpg" width="400" />
