@@ -32,7 +32,7 @@
 
 ### 🦔 TunNgrok
 [![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/tunNgrok)
-![shell](https://img.shields.io/badge/shell-lightgrey)
+![shell](https://img.shields.io/badge/shell-lightgreen)
 
 <img src="https://github.com/JsonSecurity/Images/blob/main/scripts/tcp.jpg" width="400" />
 
