@@ -5,8 +5,8 @@
 ## Images of the scripts made by `Json Security`
 
 ### 🦔 redbot
-<img src="https://github.com/JsonSecurity/Images/blob/main/scripts/redbot.png" width="700" />
 [view_script](https://github.com/JsonSecurity/redbot)
+<img src="https://github.com/JsonSecurity/Images/blob/main/scripts/redbot.png" width="700" />
 
 ---------
 
