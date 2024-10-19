@@ -16,30 +16,30 @@
 
 ---------
 
-### 🦗 `Lizardnum` 
+### 🦗 Lizardnum
 <img src="https://github.com/JsonSecurity/Images/blob/main/scripts/Lizardnum.png" width="700" />
 [view_script](https://github.com/JsonSecurity/Lizardnum)
 
 ---------
 
-### 🦔 `TunNgrok` 
+### 🦔 TunNgrok
 <img src="https://github.com/JsonSecurity/Images/blob/main/scripts/tcp.jpg" width="400" />
 [view_script](https://github.com/JsonSecurity/tunNgrok)
 
 ---------
 
-### 📀 `sdbackup` 
+### 📀 sdbackup
 <img src="https://github.com/JsonSecurity/Images/blob/main/scripts/sd.jpg" width="600" />
 [view_script](https://github.com/JsonSecurity/sdbackup)
 
 ---------
 
-### 💻  `Extrakeys` 
+### 💻 Extrakeys
 <img src="https://github.com/JsonSecurity/Images/blob/main/scripts/extrakeys.jpg" width="400" />
 [view_script](https://github.com/JsonSecurity/Extrakeys)
 
 ---------
 
-### 📍 `Locateme` 
-[view_script](https://github.com/JsonSecurity/Locateme)
+### 📍 Locateme
 <img src="https://github.com/JsonSecurity/Images/blob/main/scripts/locateme.jpg" width="400" />
+[view_script](https://github.com/JsonSecurity/Locateme)
