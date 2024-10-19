@@ -1,6 +1,6 @@
 # Json Security
 
-<img src="https://github.com/JsonSecurity/Images/blob/main/all/logogit.png" width="200" />
+<img src="https://github.com/JsonSecurity/Images/blob/main/all/logogit.png" width="1000" />
 
 ## Images of the scripts made by `Json Security`
 
