@@ -2,10 +2,6 @@
 
 <img src="https://github.com/JsonSecurity/Images/blob/main/all/logogit.png" width="1000" />
 
-## Images of the scripts made by `Json Security`
-
----
-
 ### 🦔 redbot
 [![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/redbot)
 ![python](https://img.shields.io/badge/python-yellow)
