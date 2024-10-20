@@ -6,7 +6,7 @@
 [![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/redbot)
 ![python](https://img.shields.io/badge/python-yellow)
 
-<img src="https://github.com/JsonSecurity/Images/blob/main/scripts/redbot.png" width="700" />
+<img src="https://github.com/JsonSecurity/Images/blob/main/scripts/redbot 6.png" width="500" />
 
 ---
 
