@@ -14,7 +14,7 @@
 [![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/LogoFlutterChanger)
 ![python](https://img.shields.io/badge/python-yellow)
 
-<img src="https://github.com/JsonSecurity/Images/blob/main/scripts//logoflutterchanger.png" width="600" />
+<img src="https://github.com/JsonSecurity/Images/blob/main/scripts//logoflutterchanger.png" width="890" />
 
 ---
 
