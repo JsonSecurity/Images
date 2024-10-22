@@ -10,6 +10,14 @@
 
 ---
 
+### 🐟 LogoFlutterChanger
+[![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/LogoFlutterChanger)
+![python](https://img.shields.io/badge/python-yellow)
+
+<img src="https://github.com/JsonSecurity/Images/blob/main/scripts//logoflutterchanger.png" width="600" />
+
+---
+
 ### 🦝 Active-Win_U
 [![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/Active-Win_U)
 ![python](https://img.shields.io/badge/python-yellow)
