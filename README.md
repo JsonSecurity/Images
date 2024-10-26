@@ -51,7 +51,7 @@
 ---
 
 ### 💻 Extrakeys
-[![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/Extrakeys)
+[![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/sh-scripting/tree/main/ExtraKeyTermux)
 ![shell](https://img.shields.io/badge/shell-green)
 
 <img src="https://github.com/JsonSecurity/Images/blob/main/scripts/extrakeys.jpg" width="400" />
