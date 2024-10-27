@@ -6,7 +6,15 @@
 [![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/redbot)
 ![python](https://img.shields.io/badge/python-yellow)
 
-<img src="https://github.com/JsonSecurity/Images/blob/main/all/redbot%206.png" width="600" />
+<img src="https://github.com/JsonSecurity/Images/blob/main/all/redbot%206.png"  />
+
+---
+
+### 👾 gemini
+[![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/gemini)
+![shell](https://img.shields.io/badge/shell-green)
+
+<img src="https://github.com/JsonSecurity/Images/blob/main/scripts/bard.jpg"  />
 
 ---
 
@@ -14,7 +22,7 @@
 [![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/LogoFlutterChanger)
 ![python](https://img.shields.io/badge/python-yellow)
 
-<img src="https://github.com/JsonSecurity/Images/blob/main/scripts//logoflutterchanger.png" width="890" />
+<img src="https://github.com/JsonSecurity/Images/blob/main/scripts//logoflutterchanger.png" />
 
 ---
 
@@ -22,7 +30,7 @@
 [![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/Active-Win_U)
 ![python](https://img.shields.io/badge/python-yellow)
 
-<img src="https://github.com/JsonSecurity/Images/blob/main/scripts/activewin.png" width="1000" />
+<img src="https://github.com/JsonSecurity/Images/blob/main/scripts/activewin.png" />
 
 ---
 
@@ -30,7 +38,7 @@
 [![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/Lizardnum)
 ![python](https://img.shields.io/badge/python-yellow)
 
-<img src="https://github.com/JsonSecurity/Images/blob/main/scripts/Lizardnum.png" width="700" />
+<img src="https://github.com/JsonSecurity/Images/blob/main/scripts/Lizardnum.png"  />
 
 ---
 
