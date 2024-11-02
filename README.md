@@ -22,7 +22,7 @@
 [![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/ImageToText)
 ![shell](https://img.shields.io/badge/python-yellow)
 
-<img src="https://github.com/JsonSecurity/Images/blob/main/scripts/pytesseract.png"  />
+<img src="https://github.com/JsonSecurity/Images/blob/main/scripts/pytesseract_2.png"  />
 
 ---
 
