@@ -2,11 +2,19 @@
 
 <img src="https://github.com/JsonSecurity/Images/blob/main/all/logogit.png" width="1000" />
 
-### 🦔 redbot
-[![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/redbot)
-![python](https://img.shields.io/badge/python-yellow)
+### 🦝 Lemurcv
+[![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/Lermurcv)
+![shell](https://img.shields.io/badge/shell-green)
 
-<img src="https://github.com/JsonSecurity/Images/blob/main/all/redbot%206.png"  />
+<img src="https://github.com/JsonSecurity/Images/blob/main/scripts/Lemurcv.png"/>
+
+---
+
+### 🐗 OpticIA
+[![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/OpticAI)
+![shell](https://img.shields.io/badge/shell-green)
+
+<img src="https://github.com/JsonSecurity/Images/blob/main/scripts/opticia.png"  />
 
 ---
 
@@ -20,7 +28,7 @@
 
 ### 🖼 ImageToText
 [![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/ImageToText)
-![shell](https://img.shields.io/badge/python-yellow)
+![python](https://img.shields.io/badge/python-yellow)
 
 <img src="https://github.com/JsonSecurity/Images/blob/main/scripts/pytesseract_2.png"  />
 
@@ -31,6 +39,14 @@
 ![python](https://img.shields.io/badge/python-yellow)
 
 <img src="https://github.com/JsonSecurity/Images/blob/main/scripts//logoflutterchanger.png" />
+
+---
+
+### 🦔 redbot
+[![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/redbot)
+![python](https://img.shields.io/badge/python-yellow)
+
+<img src="https://github.com/JsonSecurity/Images/blob/main/all/redbot%206.png"  />
 
 ---
 
