@@ -18,6 +18,14 @@
 
 ---
 
+### 📄 XMLRPCBRUTE
+[![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/xmlrpcbrute)
+![shell](https://img.shields.io/badge/shell-green)
+
+<img src="https://github.com/JsonSecurity/xmlrpcbrute/blob/main/xmlrpc_brute.png"  />
+
+---
+
 ### 👾 gemini
 [![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/gemini)
 ![shell](https://img.shields.io/badge/shell-green)
