@@ -10,6 +10,14 @@
 
 ---
 
+### 🐶 kupload
+[![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/kupload)
+![shell](https://img.shields.io/badge/shell-green)
+![shell](https://img.shields.io/badge/php-blue)
+
+<img src="https://github.com/JsonSecurity/Images/blob/main/scripts/kupload_1.png" />
+
+---
 ### 🐗 OpticIA
 [![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/OpticAI)
 ![shell](https://img.shields.io/badge/shell-green)
