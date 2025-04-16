@@ -18,6 +18,15 @@
 <img src="https://github.com/JsonSecurity/Images/blob/main/scripts/kupload_1.png" />
 
 ---
+
+### 👻 dpage
+[![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/dpage)
+![shell](https://img.shields.io/badge/shell-green)
+
+<img src="https://github.com/JsonSecurity/Images/blob/main/scripts/dpage.png" />
+
+---
+
 ### 🐗 OpticIA
 [![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/OpticAI)
 ![shell](https://img.shields.io/badge/shell-green)
