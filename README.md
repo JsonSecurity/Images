@@ -19,6 +19,14 @@
 
 ---
 
+### 🧵 Wifi Keys
+[![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/wifikeys)
+![shell](https://img.shields.io/badge/powershell-blue)
+
+<img src="https://github.com/JsonSecurity/Images/blob/main/scripts/wifikeys.png" />
+
+---
+
 ### 👻 dpage
 [![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/dpage)
 ![shell](https://img.shields.io/badge/shell-green)
