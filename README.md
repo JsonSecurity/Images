@@ -2,6 +2,16 @@
 
 <img src="https://github.com/JsonSecurity/Images/blob/main/all/logogit.png" width="1000" />
 
+##
+
+### 🐸 Froxon
+[![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/Froxon)
+![shell](https://img.shields.io/badge/shell-green)
+
+<img src="https://github.com/JsonSecurity/Images/blob/main/scripts/froxon.png"/>
+
+---
+
 ### 🦝 Lemurcv
 [![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/Lemurcv)
 ![shell](https://img.shields.io/badge/shell-green)
