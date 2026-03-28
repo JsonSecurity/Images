@@ -4,6 +4,14 @@
 
 ##
 
+### 🐯 Kupload HTTP
+[![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/Kupload)
+![shell](https://img.shields.io/badge/shell-green)
+
+<img src="https://github.com/JsonSecurity/Images/blob/main/scripts/kuphttp.png"/>
+
+---
+
 ### 🐸 Froxon
 [![view_script](https://img.shields.io/badge/🔗-view_script-blue)](https://github.com/JsonSecurity/Froxon)
 ![shell](https://img.shields.io/badge/shell-green)
